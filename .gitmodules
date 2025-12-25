@@ -1,0 +1,3 @@
+[submodule "examples/sdl3_bgfx_imgui_examples"]
+	path = examples/sdl3_bgfx_imgui_examples
+	url = https://github.com/fernaerell/sdl3_bgfx_imgui_examples.git

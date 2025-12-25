@@ -1,0 +1,4 @@
+@PACKAGE_INIT@
+
+include("${CMAKE_CURRENT_LIST_DIR}/imgui.cmake")
+set(IMGUI_INCLUDE_DIRS "${CMAKE_CURRENT_LIST_DIR}/../../../include")
